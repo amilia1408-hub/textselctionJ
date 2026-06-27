@@ -187,7 +187,7 @@ function buildScreen2() {
       });
       const btn = document.createElement("div");
       btn.className = "diff-btn";
-      btn.innerHTML = `<span>${"①②③④⑤"[i]}</span><span>${label}</span>`;
+      btn.innerHTML = `<span>${"①②③④⑤"[i]}</span><span>${label.replace(" ", "<br>")}</span>`;
       lbl.appendChild(input);
       lbl.appendChild(btn);
       scale.appendChild(lbl);
