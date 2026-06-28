@@ -198,6 +198,13 @@ html, body {
 .phrase-red {
   color: #e23b3b;
 }
+.notice-lg {
+  font-size: 17px;
+  line-height: 1.7;
+}
+.emph-lg {
+  font-size: 20px;
+}
 .big-notice {
   font-size: 17px;
   line-height: 1.9;
