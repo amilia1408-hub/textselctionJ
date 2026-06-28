@@ -203,6 +203,17 @@ html, body {
   line-height: 1.9;
   color: #333;
 }
+.confirm-notice {
+  margin-top: 20px;
+  padding: 14px 16px;
+  background: #eef3ff;
+  border: 1.5px solid #c6d6ff;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1d4fd6;
+  line-height: 1.6;
+}
 .card-yellow .big-notice {
   font-size: 17px;
   line-height: 1.9;
